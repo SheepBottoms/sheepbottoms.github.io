@@ -24,14 +24,14 @@ Our final destination will be a few days stopover in Reykjavik in Iceland, and t
 
 # Who we are:
 
-|[![Paige]({{ site.images }}/Paige.jpg)]({{ site.images }}/Paige.JPG) | **Paige:** Child and Family therapist by day, trip planning guru by night. Hopes to see EVERYTHING.
+|[![Paige]({{ site.images }}/Paige.JPG)]({{ site.images }}/Paige.JPG) | **Paige:** Child and Family therapist by day, trip planning guru by night. Hopes to see EVERYTHING.
 
 |[![Jimmy]({{ site.images }}/Jimmy.jpg)]({{ site.images }}/Jimmy.jpg) | **Jimmy:** Software engineer, hopes to learn more about, you know, people.
 
-|[![Byron]({{ site.images }}/Byron.jpg)]({{ site.images }}/Byron.JPG) | **Byron:** Protector of the homefront. Hobbies: barking at squirrels and stealing people food from the trash.
+|[![Byron]({{ site.images }}/Byron.JPG)]({{ site.images }}/Byron.JPG) | **Byron:** Protector of the homefront. Hobbies: barking at squirrels and stealing people food from the trash.
 
-[![Mongo]({{ site.images }}/Mongo.jpg)]({{ site.images }}/Mongo.JPG) | **Mongo Jerrie:** Master of supersoft cuddles. Hobbies: Sleeping and looking cute.
+[![Mongo]({{ site.images }}/Mongo.JPG)]({{ site.images }}/Mongo.JPG) | **Mongo Jerrie:** Master of supersoft cuddles. Hobbies: Sleeping and looking cute.
 
-[![Tugger]({{ site.images }}/Tugger.jpg)]({{ site.images }}/Tugger.JPG) | **Rum Tum Tugger:** The Unchallenged pack leader. Hobbies: Howling to be fed and looking at others as if they are dirt between his toes. 
+[![Tugger]({{ site.images }}/Tugger.JPG)]({{ site.images }}/Tugger.JPG) | **Rum Tum Tugger:** The Unchallenged pack leader. Hobbies: Howling to be fed and looking at others as if they are dirt between his toes. 
 
  
