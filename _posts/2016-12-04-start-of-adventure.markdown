@@ -7,7 +7,7 @@ date:   2016-12-04 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
-bg: "firstpost.png"
+bg: "firstpost.jpg"
 ---
 Welcome to our travel blog!!
 [Check out the about session for details on the trip.]({{ site.url }}/about)
