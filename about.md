@@ -13,6 +13,8 @@ Hi friends, family, and random internet creepers,
 
 Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to the UK, Ireland, and Iceland.  For those who loved us enough to follow us on our last blog, welcome back! This time around we've attempted to upgrade with a new blog format and the use of a surface rather than our phones. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
 
+[![Map]({{ site.images }}/aboutmap.png)]({{ site.images }}/aboutmap.png)
+
 ## The Basic plan
 
 We will begin our travels with the only repeat location from our last trip: Ireland. We're going to spend some time in Dublin, our current favorite city in the world, then will travel to Northern Ireland to visit Belfast, the Causeway Coast, and Derry/Londonderry. 
