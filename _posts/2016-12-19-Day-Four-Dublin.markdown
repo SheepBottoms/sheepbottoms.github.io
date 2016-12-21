@@ -3,7 +3,7 @@ layout: post
 title:  "Mainly writers, churches, Vikings, and leprechauns. Awesome Day."
 crawlertitle: "Mainly writers, churches, Vikings, and leprechauns. Awesome Day."
 summary: ""
-date:   2016-12-18 23:09:47 +0700
+date:   2016-12-19 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
