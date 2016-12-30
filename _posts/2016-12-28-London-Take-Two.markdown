@@ -10,7 +10,6 @@ author: huffaker
 bg: "20161228/image12.jpeg"
 ---
 
-Day 13: London Take 2
 Jimmy and I learned a lot from our stressful day yesterday. Christmas crowds are the worst. Seriously. THE WORST.
 
 Over dinner, Jimmy and I talked about the other time we were in a place that was so crowded it became unfun: Venice three years ago. Don’t get me wrong, Venice was awesome. But the crowds there were not. Back then, we were ready for it. We got up early and hit big sites right when they opened, took a nap in the afternoon when crowds were so thick you couldn’t walk, then went back out in late afternoon/evening. We decided to rearrange all of our London plans and implement that policy. Luckily, I had booked an afternoon tea experience that I was really excited about, so the afternoon crowds were already taken care of.
