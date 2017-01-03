@@ -7,7 +7,7 @@ date:   2016-12-31 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
-bg: "20161231/image1.jpeg"
+bg: "20161231/image67.jpeg"
 ---
 
 Hello everyone! We woke up today feeling pretty refreshed after our wild night. I also found an amazing trick for getting melted wax off of wool coats. Did you know that you can heat up on iron, put down a paper towel on top the wax stain and rub the iron over it? The paper towel soaks of the now remelted wax, and it doesn’t leave a stain. Incredible!
