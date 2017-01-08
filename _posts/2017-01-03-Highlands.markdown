@@ -7,7 +7,7 @@ date:   2017-01-03 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
-bg: "20170103/image35.jpeg"
+bg: "20170103/image23.jpeg"
 ---
 
 Today was one of the days that I have been planning, dreaming, and thinking about since I began planning our trip. We drove way out of our way in order to reach the Isle of Skye. Skye is also called the misty isle, because the weather there is usually bad, so the clouds come down and make the island look like it is shrouded in mist. Locals told us that every now and then they will have a beautiful sunny day, but our day there was not like that.
