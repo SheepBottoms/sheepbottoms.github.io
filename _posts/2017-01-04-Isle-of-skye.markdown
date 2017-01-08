@@ -129,5 +129,10 @@ Then, just when we thought it couldn’t get more beautiful, we came to Loch Lom
 [![picture]({{ site.images }}/20170104/image53.jpeg)]({{ site.images }}/20170104/image53.jpeg)
 
 Deciding that we had stopped enough, and that if stopped at every beautiful location we would never make it to Glasgow, we powered ahead. We began what should have been our 3 hour journey at 9am, and reached Glasgow at 4pm. 
-Glasgow was fun. It’s not quite as beautiful as Edinburgh, and it definitely had a younger, livelier feel. It was Wednesday night so there wasn’t as much going on as we’d have liked, but we did get some shopping in (yeah Joules!) and went to a pub. I had some pictures of Glasgow lit up with Christmas lights (it was really pretty ), but I can’t seem to find them now. Next time I go to Scotland, I’m spending more time in Glasgow.
+Glasgow was fun. It’s not quite as beautiful as Edinburgh, and it definitely had a younger, livelier feel. It was Wednesday night so there wasn’t as much going on as we’d have liked, but we did get some shopping in (yeah Joules!) and went to a pub. Here are some pictures of Glasgow lit up with Christmas lights. Next time I go to Scotland, I’m spending more time in Glasgow.
+
+[![picture]({{ site.images }}/20170104/image54.jpeg)]({{ site.images }}/20170104/image54.jpeg)
+[![picture]({{ site.images }}/20170104/image55.jpeg)]({{ site.images }}/20170104/image55.jpeg)
+[![picture]({{ site.images }}/20170104/image56.jpeg)]({{ site.images }}/20170104/image56.jpeg)
+
 Good night.
