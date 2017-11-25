@@ -11,9 +11,9 @@ active: about
 # Introduction to the trip
 Hi friends, family, and random internet creepers,
 
-Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to the UK, Ireland, and Iceland.  For those who loved us enough to follow us on our last blog, welcome back! This time around we've attempted to upgrade with a new blog format and the use of a surface rather than our phones. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
+Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to Paris and Belgium.  For those who loved us enough to follow us on our last blog, welcome back! This time around we've attempted to upgrade with a new blog format and the use of a surface rather than our phones. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
 
-[![Map]({{ site.images }}/aboutmap.png)]({{ site.images }}/aboutmap.png)
+[![Map]({{ site.images }}/aboutmap.jpg)]({{ site.images }}/aboutmap.jpg)
 
 ## The Basic plan
 
