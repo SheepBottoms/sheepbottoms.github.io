@@ -9,8 +9,12 @@ active: archive
 ---
 
 
-<ul class="year">
-  {% for post in site.posts offset: 5 %}
+
+{% assign grouping = site.posts | sort_by:"date" | group_by:"group" %}
+{% for group in grouping %}
+  <h4>{{ group.name }}</h4>
+  <ul class="year">
+  {% for post in group.items %}
       <li>
         {% if post.lastmod %}
           <a href="{{ post.url }}">{{ post.title }}</a>
@@ -21,5 +25,7 @@ active: archive
         {% endif %}
       </li>
   {% endfor %}
-</ul>
+  </ul>
+{% endfor %}
+
 

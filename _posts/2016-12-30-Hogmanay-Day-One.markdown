@@ -7,6 +7,7 @@ date:   2016-12-30 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
+group: "Traveling The UK"
 bg: "20161230/image1.jpeg"
 ---
 
