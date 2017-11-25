@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Test Post"
+crawlertitle: "Test Post"
+summary: ""
+date: 2017-11-25 13:06:17 +0000
+categories: posts
+tags: ""
+author: huffaker
+group: "Paris & Belgium"
+bg: "20171125/imagerId4.jpg"
+---
+
+
+[![picture]({{ site.images }}/20171125/imagerId4.jpg)]({{ site.images }}/20171125/imagerId4.jpg)
+
+

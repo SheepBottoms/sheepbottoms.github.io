@@ -7,7 +7,7 @@ date:   2016-12-16 23:09:47 +0700
 categories: posts
 tags: ''
 author: huffaker
-group: "Traveling The UK"
+group: "Traveling The UK - 2016/2017"
 bg: "20161216/header.jpg"
 ---
 Today was very exciting. We literally spent all day Friday flying on airplane for 9 hours. Enjoy the pictures.
