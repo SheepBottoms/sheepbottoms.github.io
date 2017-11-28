@@ -11,19 +11,20 @@ active: about
 # Introduction to the trip
 Hi friends, family, and random internet creepers,
 
-Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to Paris and Belgium.  For those who loved us enough to follow us on our last blog, welcome back! This time around we've attempted to upgrade with a new blog format and the use of a surface rather than our phones. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
+Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to Paris and Belgium. My sister pointed out that normally we "disappear for like a month”, so at 10 days this will be our shortest trip yet. If you’re worried that this means that this trip will be less exciting, think again. As always, we are confident our blog will contain lots of drama and excitement. You will laugh, you will cry, you will NOT fall asleep while reading. Please?
+
+For those who loved us enough to follow us on our last blog, welcome back!. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
 
 [![Map]({{ site.images }}/aboutmap.jpg)]({{ site.images }}/aboutmap.jpg)
 
 ## The Basic plan
 
-We will begin our travels with the only repeat location from our last trip: Ireland. We're going to spend some time in Dublin, our current favorite city in the world, then will travel to Northern Ireland to visit Belfast, the Causeway Coast, and Derry/Londonderry. 
+We’re beginning in Paris, the city of lights. There should be some extra lights on our trip, as Paris is supposed to be all lit up for Christmas. Our plan for Paris is to see the old, the new, and the stuff we can eat. We’ve got a quick day trip to Versailles sprinkled in there too.
 
-Our next destination will be England. We will focus most of our time in London, with short trips to Bath, Stonehenge, and York. 
+When we’ve gotten our fill of Paris, we will be headed to Belgium. We’re going to visit the romantic Medieval cities of Bruges and Ghent before ending our trip in Brussels. In Belgium we’re hoping to rock some Christmas markets, eat chocolate, enjoy the canals, eat more chocolate, and visit some castles and museums before drinking hot chocolate. Should be a good time had by all.
+Wish us luck!
 
-From York we will travel to Scotland.We're starting in Edinburgh where we will get to join in the Hogmanay celebrations, then we'll do a driving tour of the Scottish Highlands (we're coming for you, Nessie) on our way to the Isle of Skye. From Skye we will head back down through the highlands to end our Scottish winter road trip in Glasgow. 
-
-Our final destination will be a few days stopover in Reykjavik in Iceland, and then a direct flight home. 
+Paige and Jimmy
 
 # Who we are:
 

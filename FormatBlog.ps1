@@ -3,7 +3,6 @@ Out-Null
 [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") |
 Out-Null
 
-
 function openDatePicker()
 {
     $form = New-Object Windows.Forms.Form 
