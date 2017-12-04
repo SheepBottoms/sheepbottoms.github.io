@@ -11,74 +11,37 @@ group: "Paris & Belgium 2017"
 bg: "20171203/imagerId57.jpg"
 ---
 
-
-Day 2: Braving the Rain in Paris
-
-
-
 Whoo. Today was wild. But totally in a good way.
-
-
 
 We started by waking up at 2am . . . Very lame. It made me think of the Andrew McMahon in the Wilderness song “Fire Escape.” I heard Jimmy moving around as much as I was, so I turned to him and sang 
 
-
-
 “You’re my number one/Your’re the reason I’m still up at dawn/Just to see your face/ We’ll be going strong/ with the vampires baby/ we belong, we awake.”
-
-
 
  Mild grumbles were heard, then I’m pretty sure we both fell back asleep.
 
-
-
 We actually woke up at 6am in the hopes of hitting Versailles before the major crowds. Paris does a cool thing on the first Sunday of every month, where they make a lot of their tourist attractions free. It’s awesome, but it also means more people. We wondered around the Marais district at 7am (before the sun) scrounging around for breakfast. We felt very Parisian as we were able to grab chocolate croissants and espresso at a bakery, then hit up a produce stand just as it was opening for a banana. If anyone has seen the movie “Amelie”, it totally reminded me of the produce stand she visits, complete with the owner yelling at his helper.
-
-
 
 Here’s a café decorated for the season:
 
-
-
 [![picture]({{ site.images }}/20171203/imagerId4.jpg)]({{ site.images }}/20171203/imagerId4.jpg)
-
-
 
 After getting breakfast we got on the RER train to Versailles. We didn’t quite beat the crowd, but it was a very rainy morning so it seemed like it kept a lot of people away.
 
-
-
 Here are the gates waiting to get into Versailles
-
-
 
 [![picture]({{ site.images }}/20171203/imagerId5.jpg)]({{ site.images }}/20171203/imagerId5.jpg) 
 
-
-
 [![picture]({{ site.images }}/20171203/imagerId6.jpg)]({{ site.images }}/20171203/imagerId6.jpg)
-
-
 
 [![picture]({{ site.images }}/20171203/imagerId7.jpg)]({{ site.images }}/20171203/imagerId7.jpg)
 
-
-
 We also got to meet some great people in line, so it really wasn’t a big deal. Versailles was pretty ornate, and it seemed to make perfect sense why the everyday person starving outside the Chateau would want to revolt and behead everyone inside. There was a lot of decadence.
-
-
 
 Here’s the entry
 
-
-
 [![picture]({{ site.images }}/20171203/imagerId8.jpg)]({{ site.images }}/20171203/imagerId8.jpg)
 
-
-
 [![picture]({{ site.images }}/20171203/imagerId9.jpg)]({{ site.images }}/20171203/imagerId9.jpg)
-
-
 
 And some of the rooms inside
 
@@ -359,13 +322,3 @@ By that time, we were exhausted, and headed back to Jewish quarter for more fala
 
 
 At this point Jimmy is already in bed asleep, and I need to be headed that way myself. An amazing day in Paris. Good night.
-
-
-
-
-
-
-
-
-
-
