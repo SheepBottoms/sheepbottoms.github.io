@@ -8,7 +8,7 @@ categories: posts
 tags: ""
 author: huffaker
 group: "Paris & Belgium 2017"
-bg: "20171209/imagerId74.jpg"
+bg: "20171209/imagerId60.jpg"
 ---
 
 
@@ -70,9 +70,6 @@ The Royal Museum of Fine Arts is actually made up of three museums: The Old Mast
 
 Here are some example:
 
-
-
-[![picture]({{ site.images }}/20171209/imagerId9.jpg)]({{ site.images }}/20171209/imagerId9.jpg)
 
 
 
