@@ -9,19 +9,24 @@ active: about
 ---
 
 # Introduction to the trip
-Hi friends, family, and random internet creepers,
+Welcome back friends, family, and random internet creepers,
 
-Jimmy and I are ridiculously excited to be preparing to embark on our next European adventure! This time we're headed to Paris and Belgium. My sister pointed out that normally we "disappear for like a month”, so at 10 days this will be our shortest trip yet. If you’re worried that this means that this trip will be less exciting, think again. As always, we are confident our blog will contain lots of drama and excitement. You will laugh, you will cry, you will NOT fall asleep while reading. Please?
+Jimmy and I are so excited to be going on our next international adventure, and are happy to announce that we are finally going somewhere other than Europe! We are beginning to tackle learning more about a new continent by spending 10 days in Japan.
 
-For those who loved us enough to follow us on our last blog, welcome back!. The plan will be to add daily entries to the blog (as time and wifi allows) so our parents can rest assured that we're still alive. Below is the basic outline of our planned travels.
+For those who loved us enough to follow us on our last blog, welcome back!. We've developed quite a loyal and enthusiatic following (mainly consisting of our parents, my sister, and a few very loyal friends who love us enough to follow us on our adventures), and we hate disappointing our fans (mainly my sister who gets on my case if I don't post each day) so we're going to try to stick to our plan of posting everyday. Our research indicates that WIFI is spotty in parts of Japan, so we'll see how this goes
 
 [![Map]({{ site.images }}/aboutmap.jpg)]({{ site.images }}/aboutmap.jpg)
 
 ## The Basic plan
 
-We’re beginning in Paris, the city of lights. There should be some extra lights on our trip, as Paris is supposed to be all lit up for Christmas. Our plan for Paris is to see the old, the new, and the stuff we can eat. We’ve got a quick day trip to Versailles sprinkled in there too.
+Japan is a large country to tackle in 10 days, so we're focusing our time on Tokyo and Kyoto, with quick adventures to nearby locations.
 
-When we’ve gotten our fill of Paris, we will be headed to Belgium. We’re going to visit the romantic Medieval cities of Bruges and Ghent before ending our trip in Brussels. In Belgium we’re hoping to rock some Christmas markets, eat chocolate, enjoy the canals, eat more chocolate, and visit some castles and museums before drinking hot chocolate. Should be a good time had by all.
+We'll be starting out in Tokyo, spending a few days visiting historic temples, a royal palace, neon streets, and attending the national Sumo wrestling competition. We're also planning to do A LOT of eating, a little bit of shopping, and I am very excited to have talked Jimmy into spending a day at Tokyo Disney Resort vsiting their Disney Sea Park. 
+
+After Tokyo, we're heading into the mountains to visit a traditional Ryokan (or Japanese inn) in a hotsprings town with it's own private onsens (or natural hot tubs). We're also visiting the snow monkeys who often hang out in their own hot tub created by a natural hotsprings. We'll see if they're up for hot tub lounging in May.
+
+From the mountains we'll journey to Kyoto where we'll get to visit lots of cultural sights, enjoy a traditional tea ceremony, visit beautiful gardens, and have a tradition Kaiseki dinner with Geisha. We'll also be daytripping to Hemji to visit one of the oldest castles in Japan and visit their restored Samuri village. Also, more shopping and eating in Kyoto. 
+
 Wish us luck!
 
 Paige and Jimmy
