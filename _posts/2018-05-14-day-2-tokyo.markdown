@@ -12,8 +12,6 @@ bg: "2018/05/14/imagerId116.jpg"
 ---
 
 
-Blog day 2
-
 Good morning! Or night. I’m having a hard time keeping track of days and nights back home. Good news, Jimmy and I slept great last night. We woke up at 6am, ready to hit the hot streets of Tokyo. We ate our yummy yummy panda pastries (they were filled with custard, chocolate custard, or red bean paste in case you were curious), and bananas in a bag. I don’t know why, but the individually wrapped bananas were super cute to me.
 
 [![picture]({{ site.images }}/2018/05/14/imagerId6.jpg)]({{ site.images }}/2018/05/14/imagerId6.jpg)
