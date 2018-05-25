@@ -3,7 +3,7 @@ layout: post
 title:  "Day 5 Traveling to the mountains and the Ryokan"
 crawlertitle: "Day 5 Traveling to the mountains and the Ryokan"
 summary: ""
-date: 2018-05-19 16:59:05 +0000
+date: 2018-05-17 16:59:05 +0000
 categories: posts
 tags: ""
 author: huffaker
