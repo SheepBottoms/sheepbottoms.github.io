@@ -27,7 +27,7 @@ To be clear, I am a beginner. I officially started studying on April 1st so its 
 * have a current vocab of just over 300 words.
 (How do I know all this? Because WaniKani tracks if for me which is awesome!)
 
-On one hand, this is super pitifully and I have an insane about of work ahead of me. But, as I understand it, this is about as much as a full year of traditional classroom study!
+On one hand, this is super pitifully and I have an insane about of work ahead of me. But, as I understand it, this is about as much as a full year of traditional classroom study! I really have no idea if I will become fluent and *I make no promises* but after two months I still feel excited and feel that I am making good progress, could happen?
 
 Quick side note, if my new friends from Japan are reading this, I really want to practice Japanese! Keep bugging me to study and embarrass myself!
 
