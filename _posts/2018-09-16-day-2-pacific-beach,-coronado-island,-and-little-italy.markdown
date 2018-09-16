@@ -8,7 +8,7 @@ categories: posts
 tags: ""
 author: huffaker
 group: "SoCal 2018"
-bg: "20180915/imagerId51.jpg"
+bg: "20180915/imagerId23.jpg"
 ---
 
 
