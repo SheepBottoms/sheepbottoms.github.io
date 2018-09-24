@@ -3,7 +3,7 @@ layout: post
 title:  "Day 3 La Jolla, Balboa Park, Old Town"
 crawlertitle: "Day 3 La Jolla, Balboa Park, Old Town"
 summary: ""
-date: 2018-09-17 07:20:57 +0000
+date: 2018-09-16 07:20:57 +0000
 categories: posts
 tags: ""
 author: huffaker
