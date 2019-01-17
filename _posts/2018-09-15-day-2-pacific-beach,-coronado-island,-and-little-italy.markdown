@@ -3,7 +3,7 @@ layout: post
 title:  "Day 2 Pacific Beach, Coronado Island, and Little Italy"
 crawlertitle: "Day 2 Pacific Beach, Coronado Island, and Little Italy"
 summary: ""
-date: 2018-09-16 07:05:33 +0000
+date: 2018-09-15 07:05:33 +0000
 categories: posts
 tags: ""
 author: huffaker
