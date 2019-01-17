@@ -75,10 +75,10 @@ Write-Host "Starting Jekyll..."
 $jekyll = Start-Process jekyll -ArgumentList "serve" -WorkingDirectory "." -PassThru
 
 $blogPostName = Read-Host -Prompt 'Input name of the blog post'
-$tripName = 'Japan 2018'
+$tripName = 'France and Switzerland 2019'
 $blogFileLocation = '.'
 
-$wordDoc = Get-FileName -initialDirectory "C:\Users\james\repos"
+$wordDoc = Get-FileName -initialDirectory "C:\Users\James\Documents\FanceSwitzerland2019"
 $dateTag = openDatePicker
 
 & .\BlogFormatter\BlogFormatter.exe $wordDoc $tripName $blogPostName $blogFileLocation $dateTag

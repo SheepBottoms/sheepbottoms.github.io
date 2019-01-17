@@ -11,23 +11,20 @@ active: about
 # Introduction to the trip
 Welcome back friends, family, and random internet creepers,
 
-Jimmy and I are so excited to be going on our next international adventure, and are happy to announce that we are finally going somewhere other than Europe! We are beginning to tackle learning more about a new continent by spending 10 days in Japan.
-
-For those who loved us enough to follow us on our last blog, welcome back!. We've developed quite a loyal and enthusiatic following (mainly consisting of our parents, my sister, and a few very loyal friends who love us enough to follow us on our adventures), and we hate disappointing our fans (mainly my sister who gets on my case if I don't post each day) so we're going to try to stick to our plan of posting everyday. Our research indicates that WIFI is spotty in parts of Japan, so we'll see how this goes
+Hi everyone!
+We’re back to our blogging, and getting ready to head international! For the first time ever Jimmy and I gave up on our blog and didn’t complete on our last trip to So Cal. I know it was a huge let down, and ruined everyone’s day. We’ll try to do better. 
+On this trip we are heading back to France, and Jimmy is getting his first experience of Switzerland. I was very fortunate to be able to visit Switzerland with family when I was a pre-teen, but I remember less of it than I wish I did. 
+Jimmy has been working like crazy on his French skills over the past six months or so, and is hoping all of his hard work is about to pay off with some authentic and simple conversations in French. Although, I keep asking him how to order food and he keeps stonewalling me . . .
 
 [![Map]({{ site.images }}/aboutmap.jpg)]({{ site.images }}/aboutmap.jpg)
 
 ## The Basic plan
 
-Japan is a large country to tackle in 10 days, so we're focusing our time on Tokyo and Kyoto, with quick adventures to nearby locations.
-
-We'll be starting out in Tokyo, spending a few days visiting historic temples, a royal palace, neon streets, and attending the national Sumo wrestling competition. We're also planning to do A LOT of eating, a little bit of shopping, and I am very excited to have talked Jimmy into spending a day at Tokyo Disney Resort vsiting their Disney Sea Park. 
-
-After Tokyo, we're heading into the mountains to visit a traditional Ryokan (or Japanese inn) in a hotsprings town with it's own private onsens (or natural hot tubs). We're also visiting the snow monkeys who often hang out in their own hot tub created by a natural hotsprings. We'll see if they're up for hot tub lounging in May.
-
-From the mountains we'll journey to Kyoto where we'll get to visit lots of cultural sights, enjoy a traditional tea ceremony, visit beautiful gardens, and have a tradition Kaiseki dinner with Geisha. We'll also be daytripping to Hemji to visit one of the oldest castles in Japan and visit their restored Samuri village. Also, more shopping and eating in Kyoto. 
-
-Wish us luck!
+This trip happened because Jimmy and I decided to invite ourselves on a friend’s birthday trip to Paris. We’ll be meeting up with my friend Melissa and her mom, and spending a few days in Paris with them. From there we will spend a bit of time in the Burgundy region of France, before heading in to Switzerland.
+In Switzerland we’ll be spending time in Bern, Lucerne, and Zurich. We’ll also journey into the Alps to play in the Bernese Oberland (hopefully we’ll get good weather and can venture up to the highest place in Europe) and visit Zermatt to see the Matterhorn. The temperatures are in the negatives there right now, so send warm thoughts our way!
+At the end of our trip we’ll be heading back into France to visit the Alsace and Champagne regions, where we hope to have some great food before heading back to the US.
+We can’t wait to share our fun with our friends and family, and I’ll do my best to keep up with my posts. 
+Bon Voyage!
 
 Paige and Jimmy
 
