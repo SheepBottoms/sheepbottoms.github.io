@@ -15,7 +15,7 @@ They say when you want to learn a new language you should keep a blog to help tr
 
 **Why Japanese?**
 
-I wanted to learn a few phrases before our trip. When I have studied languages in the past (this will be my third language to attempt to learn) I have found an abundance of great learning tools that help me get started. I can quickly learn a few phrases, build some good habits and maintain momentum for about 6 months when whatever tool I was using ends. Nobody is fluent from Duolingo, maybe you can read a bit by the end but really you just want to throw up if you have to repeat the “basic phrases” exercise one more time or look at any more ads. There is always a huge gap, the intermittent gap, where there is barley anything the help you learn your new language. My bilingual coworkers describe a point where they no longer needed to translate in their heads. It’s a tipping point where suddenly movies, books, news and all kinds of media become available. Having conversations, though awkward, become possible and productive. I’ve never reached this point but, **life goal**, I really want to find it at least once…
+I wanted to learn a few phrases before our trip. When I have studied languages in the past (this will be my third language to attempt to learn) I have found an abundance of great learning tools that help me get started. I can quickly learn a few phrases, build some good habits and maintain momentum for about 6 months when whatever tool I was using ends. Nobody is fluent from Duolingo, maybe you can read a bit by the end but really you just want to throw up if you have to repeat the “basic phrases” exercise one more time or look at any more ads. There is always a huge gap, the intermittent gap, where there is barley anything to help you learn your new language. My bilingual coworkers describe a point where they no longer needed to translate in their heads. It’s a tipping point where suddenly movies, books, news and all kinds of media become available. Having conversations, though awkward, become possible and productive. I’ve never reached this point but, **life goal**, I really want to find it at least once…
 
 So why Japanese? I am blown away by the resources I’ve found! Not only are they excellent and engaging compared to any of the other crap I’ve tried, they are long term. 1-2 years of material. *Assuming I stick with it* I believe that with the plan below I will be able to read quite a bit in one year and read just about anything in two. I will be able to speak and have conversations with a vocab of about 3000+ words (85% of the language) and hopefully, hopefully, hopefully, bridge the intermittent gap.
 
@@ -47,11 +47,14 @@ Instructions:
 4. Start reading “Japanese for the Western Brain”. It’s not super long and will give you more context on what to expect. https://kimallen.sheepdogdesign.net/
 5. Start learning Katakana: https://www.tofugu.com/japanese/learn-katakana/
 6. Start CleverDeck. This teaches the inverse of what we cover in WaniKani, given an English word, say it in Japanese. Mix in some spaced repetition magic and you’re on your way to speaking.
-7. When you reach level 10 or so in WaniKani, begin working through Tae Kim.
+  - Side note, you should configure CleverDeck to not display the pictures until after you flip the card (I found I was associating with the image).
+  - Second side note, CleverDeck lets you enable "Sibling Cards" which I configured to just the sound (no text and no image clues). This really helps with listening skills.
+7. When you reach level 10 or so in WaniKani, start with BunPro which teaches grammer using spaced repetition magic as well. https://www.bunpro.jp/
+8. A few months in, check out preply (https://preply.com/) and start taking lessons with a Japanese native. I know this sounds intimidating but its extremely fun and motivating.
 
 Goals:
 1. Learn to read at an intermediate/advanced level in 1 year. Start reading regularly in Japanese (news/books/whatever).
-2. Lay the foundation for speaking/listening. My plan is after 6 months to a year to start skype language lessons and focus more on the speaking/listening once I have a bit of a foundation.
+2. Lay the foundation for speaking/listening.
 
 Tools:
 
@@ -113,11 +116,18 @@ Cost: $2.99 per month
 
 I’ve tried a bunch of the spaced repetition apps but this one is the best by far. Uses a native speaker and really helps with speaking rather then the reading focus that you get from WaniKani.
 
-**Memrise (optional phone app):**
+**BunPro:**
 
-Cost: $30? Not clear if this is optional to skip sections you don't want
+Cost: $30 per year
 
-Covers sentences and grammar, includes vocab that you don't get in wanikani (words that are all hiragana). Includes useful phrases. I think its worth thinking about but I have been a bit overloaded with the other tools.
+Amazing tool for learning grammer using spaced repitition. I wish they had this tool for more languages, its revolutionary.
+
+**Preply:**
+
+Cost: varies by teacher
+
+Fantastic sight for finding a language teacher for a reasonable rate.
+
 
 Duolingo is dumb and they keep finding new ways to beg for money. Not a fan at all…
 
