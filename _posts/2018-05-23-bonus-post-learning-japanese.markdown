@@ -118,11 +118,15 @@ I’ve tried a bunch of the spaced repetition apps but this one is the best by f
 
 **BunPro:**
 
+https://www.bunpro.jp/
+
 Cost: $30 per year
 
 Amazing tool for learning grammer using spaced repitition. I wish they had this tool for more languages, its revolutionary.
 
 **Preply:**
+
+https://preply.com/
 
 Cost: varies by teacher
 
